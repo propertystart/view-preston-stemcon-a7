@@ -121,7 +121,7 @@ const Index = () => {
          <div className="max-w-4xl mx-auto mb-12">
            <div className="bg-noir-light p-6 rounded-sm shadow-lg">
              <ImageReveal
-               src="/lovable-uploads/4d94bb69-1b2c-4300-99e5-cd3841beae9c.png"
+               src="/lovable-uploads/TheViewPreston-Pic-1.jpg"
                alt="Community lifestyle at The View Preston"
                className="w-full rounded-sm shadow-inner"
                aspectRatio="aspect-[16/9]"
