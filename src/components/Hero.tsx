@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
       <div className="absolute inset-0 h-full w-full">
         <div className="relative h-full w-full">
           <img 
-            src="/lovable-uploads/main-pic.png" 
+            src="/lovable-uploads/main-pic-1.png" 
             alt="The View Preston Building" 
             className="object-cover object-center h-full w-full"
           />
